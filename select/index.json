@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "瞳に映らない",
+  "base_artist": "indigo la End",
+  "createdAt": "2025-12-01T09:50:56.745111Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瞳に映らない",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_瞳に映らない_indigo_la_End.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "瞳に映らない",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_02_瞳に映らない_indigo_la_End.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "瞳に映らない",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_03_瞳に映らない_indigo_la_End.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "瞳に映らない",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_04_瞳に映らない_indigo_la_End.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "瞳に映らない形と性質、それを「」と呼んで",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_05_瞳に映らない形と性質、それを「」と呼んで_indigo_la_End.txt"
+    }
+  ]
+}
